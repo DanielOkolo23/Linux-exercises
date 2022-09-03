@@ -22,10 +22,12 @@ cal command is a calendar command in Linux which is used to see the calendar of 
 
 5. <b>top</b> <br>
 As a terminal equivalent to Task Manager in Windows, the top command will display a list of running processes and how much CPU each process uses. It’s very useful to monitor system resource usage, especially knowing which process needs to be terminated because it consumes too many resources
+
 ![top](https://user-images.githubusercontent.com/32138488/188267388-8a953c8b-582f-45fd-9f3e-3fdb9c3bd23c.PNG)
 
 6. <b>sudo su</b> <br>
  the su command allows us to switch to a different user and execute one or more commands in the shell without logging out from our current session
+ 
  ![sudo su](https://user-images.githubusercontent.com/32138488/188267585-f28ca3ad-ba31-4511-8c84-f2d8b3a18b1d.PNG)
 
 7. <b>uname</b> <br>
