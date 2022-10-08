@@ -1,0 +1,11 @@
+$ git log
+commit 47d3daf152e880ca693e951409f248095c716024 (HEAD -> master)
+Author: Daniel Okolo <danielokolo96@gmail.com>
+Date:   Fri Sep 16 10:51:34 2022 +0100
+
+    yes
+
+commit 113bbcc1342cfc8380c60bd74f047b280a771139
+Author: Daniel Okolo <danielokolo96@gmail.com>
+Date:   Fri Sep 16 10:47:27 2022 +0100
+
