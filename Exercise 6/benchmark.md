@@ -38,6 +38,47 @@ optical disc formats </b>
 
 ![udf](https://user-images.githubusercontent.com/32138488/194714742-cc328265-26ba-4600-bc56-6043a0f1635d.PNG)
 
+<b> 6. Ensure AppArmor is installed (Automated)    </b>
+<br>
+<b>  Description: AppArmor provides Mandatory Access Controls </b>
+
+![apparmor](https://user-images.githubusercontent.com/32138488/194715456-e0c26d3c-f9b9-483b-89c9-862e283bd8df.PNG)
+
+<b> 7. Ensure updates, patches, and additional security software are
+installed (Manual)     </b>
+<br>
+<b>  Description: Periodically patches are released for included software either due to security flaws or to
+include additional functionality </b>
+
+![apt](https://user-images.githubusercontent.com/32138488/194717162-83b7fa72-5873-4e57-a7e6-b48123d2d156.PNG)
+
+<b> 8. Ensure NIS Client is not installed (Automated)  </b>
+<br>
+<b>  Description:The Network Information Service (NIS), formerly known as Yellow Pages, is a client-server
+directory service protocol used to distribute system configuration files. The NIS client was
+used to bind a machine to an NIS server and receive the distributed configuration files </b>
+
+![NIS](https://user-images.githubusercontent.com/32138488/194717833-865e8c26-2dcd-4ba2-9cd3-c743db4cffa1.PNG)
+
+<b> 9.  Ensure ufw is installed (Automated)  </b>
+<br>
+<b>  Description:The Uncomplicated Firewall (ufw) is a frontend for iptables and is particularly well-suited
+for host-based firewalls. ufw provides a framework for managing netfilter, as well as a
+command-line interface for manipulating the firewall </b>
+
+![ufw](https://user-images.githubusercontent.com/32138488/194718270-1a89cfda-2628-454a-b5d5-e8363cddd1b1.PNG)
+
+<b> 10.Ensure iptables-persistent is not installed with ufw (Automated)   </b>
+<br>
+<b>  Description:The iptables-persistent is a boot-time loader for netfilter rules, iptables plugin
+ </b>
+
+![iptables](https://user-images.githubusercontent.com/32138488/194718470-6f26160b-55b1-4fb4-8d4d-a27b89d6b8f8.PNG)
+
+
+
+
+
 
 
 
