@@ -1,0 +1,3 @@
+$ git remote -v
+origin  git@gitlab.com:DanielOkolo1/Altschool-exercises.git (fetch)
+origin  git@gitlab.com:DanielOkolo1/Altschool-exercises.git (push)
