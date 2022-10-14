@@ -18,7 +18,7 @@
   <br>
   which gives us the fourth octet for our network ip below
   <br>
-<B> Network IP=193.16.20.32 <B>
+<B> 1.Network IP=193.16.20.32 <B>
  <br>
  we have 3 host bits remaining i.e we are counting our binary subnet mask from the right. Let’s use our formula for calculating usable IP addresses:
  <br>
@@ -28,10 +28,10 @@ Usable IP addresses =  $2^h$ – 2
  <br>
 This means we have a total of 8 IP addresses, with 6 usable Ip addresses
   <br>
-<B> Number of hosts=6 <B>
+<B> 2. Number of hosts=6 <B>
   <br>
  Note: In IPv4, there are two IPs that cannot be assigned to any devices. These are the Network ID and the Broadcast IP address. Therefore, you need to subtract two addresses from the total IP formula.
  <br>
-<B> Range of IP addresses=193.16.20.33 - 193.16.20.38 <B>
+<B> 3. Range of IP addresses=193.16.20.33 - 193.16.20.38 <B>
   <br>
-<B> Broadcast IP=193.16.20.39 <B>
+<B> 4. Broadcast IP=193.16.20.39 <B>
