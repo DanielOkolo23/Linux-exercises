@@ -1,3 +1,4 @@
 <H1> THIS IS MY RENDERED PAGE </H1>
 
-![indexphp](https://user-images.githubusercontent.com/32138488/195906480-c7e46211-de75-46d5-817a-e00ed971d9c8.PNG)
+![the page](https://user-images.githubusercontent.com/32138488/198596229-e4f9afa8-852d-48d5-a2f7-eee3d8cd10e0.PNG)
+
